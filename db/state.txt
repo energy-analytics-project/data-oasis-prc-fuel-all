@@ -1,0 +1,5 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-fuel-all/sql/20190920_20190921_PRC_FUEL_N_20190922_11_07_47_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-fuel-all/sql/20190919_20190920_PRC_FUEL_N_20190922_11_07_42_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-fuel-all/sql/20190916_20190917_PRC_FUEL_N_20190922_11_07_26_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-fuel-all/sql/20190917_20190918_PRC_FUEL_N_20190922_11_07_31_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-fuel-all/sql/20190918_20190919_PRC_FUEL_N_20190922_11_07_37_v1.sql
